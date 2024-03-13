@@ -58,3 +58,4 @@ console.log(change_c);
 //true=>1, false=>0
 //""=>false, values=>1
 //null=>false
+
